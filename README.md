@@ -107,6 +107,34 @@ videos/
 Project images, circuit diagrams, CAD models, and demonstration videos are available in the repository.
 
 ---
+## 📊 Results
+
+The developed robot successfully demonstrated the following functionalities:
+
+- ✅ Autonomous waste detection using YOLOv8
+- ✅ Automatic waste collection using a robotic arm
+- ✅ Waste classification into Plastic and Non-Plastic
+- ✅ Automatic waste sorting into separate compartments
+- ✅ Obstacle detection and avoidance using ultrasonic sensors
+- ✅ Manual operation through the Blynk IoT application
+- ✅ Solar-assisted battery charging for sustainable operation
+
+The completed prototype was successfully tested for navigation, waste collection, and waste sorting.
+## 🛠 Hardware Specifications
+
+| Component | Specification |
+|-----------|---------------|
+| Controller | Raspberry Pi 5 |
+| Secondary Controller | ESP32 |
+| Object Detection | YOLOv8 |
+| Camera | Raspberry Pi Camera Module V2|
+| Motor Driver | L298N |
+| Drive Motors | 12V DC Geared Motors |
+| Robotic Arm | MG996R Servo Motors |
+| Sensor | Ultrasonic Sensor |
+| Power Source | Li-ion Battery |
+| Charging | Solar Panel |
+| IoT Platform | Blynk |
 
 ## 🔮 Future Improvements
 
@@ -118,6 +146,14 @@ Project images, circuit diagrams, CAD models, and demonstration videos are avail
 - Higher-capacity solar charging system
 
 ---
+## 🌟 Project Highlights
+
+- AI-powered beach cleaning robot
+- Solar-powered operation
+- Autonomous and manual operating modes
+- Automatic waste collection
+- Plastic and non-plastic waste sorting
+- Renewable energy-based design
 
 ## 👨‍💻 Team
 
