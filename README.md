@@ -160,9 +160,9 @@ The completed prototype was successfully tested for navigation, waste collection
 - Vishnu K N
 - Jean Jossie
 - Sana Fathim C A
-- Jasim
+- Jasim A
 
-**Guide:** Prof. Bindumol E K
+**Guide:** Dr. Bindumol E K
 
 Department of Electrical and Electronics Engineering
 
